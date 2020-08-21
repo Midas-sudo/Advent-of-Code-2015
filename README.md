@@ -17,4 +17,5 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
-| ✔ [Day 1: Not Quite Lisp](https://github.com/Midas-sudo/Advent-of-Code-2015/tree/master/Day%201%20-%20Not%20Quite%20Lisp)| 🌟| 🌟|
+| ✔ [Day 1: Not Quite Lisp](https://github.com/Midas-sudo/Advent-of-Code-2015/tree/master/Day1-Not_Quite_Lisp)| 🌟| 🌟|
+| ✔ [Day 2: I Was Told There Would Be No Math](https://github.com/Midas-sudo/Advent-of-Code-2015/tree/master/Day2-I_Was_Told_There_Would_Be_No_Math)| 🌟| 🌟|
