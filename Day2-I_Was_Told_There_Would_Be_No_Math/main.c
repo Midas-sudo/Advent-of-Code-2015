@@ -73,7 +73,10 @@ for(int l=0; l<a;l++){
 
 printf("Total of Wrapping: %d\nTotal of Ribon: %d\n", total[0], total_rib[0]);
 
-main();
+for(int l=0; l<size_matrix; l++)
+    free(matrix_presents[l]);
+free(matrix_presents);
+fclose(entry);
 
 }
 
